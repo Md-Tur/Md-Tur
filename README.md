@@ -2,9 +2,13 @@
 
 # Myself Md. Tur-Ibna Mostafiz
 # 💫About Me :
+Am a junior web developer. I have knowledge & experience on Java Script,ES6,React,HTML5, CSS3, Bootstrap 5, Tailwind CSS, daisyUI,ES6,JWT,google firebase, GitHub, Figma, Netlify. Am also familiar with typescript, node.js, express.js, MongoDB, and chrome dev tools. Now am ready to work individually or as a team member in a company.
+
+I have recently completed a course on full-stack web development at Programming Hero. I have also developed some websites and now I am confident to start my carrier as a web developer. I enjoy web development and am dedicated and punctual about it. I think I would be efficient for a company if I got a chance to work there.
+
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: turibnmostafiz@gmail.com 
+- 📫 How to reach me: turibnmostafiz@gmail.com or +8801940036610
 - ⚡ Fun fact: Love to play cricket 
 
 ## 📫Explore my Portfolio
@@ -20,8 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Md-Tur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Md-Tur&theme=tokyonight&hide_border=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tur)](https://github.com/anuraghazra/github-readme-stats)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Tur)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Md-Tur)  
 
