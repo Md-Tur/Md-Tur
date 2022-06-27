@@ -19,7 +19,13 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Md-Tur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Md-Tur&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tur)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Tur)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Md-Tur)  
+
+![GitHub metrics](https://metrics.lecoq.io/Md-Tur)  
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Md-Tur&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
