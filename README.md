@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<img src="[https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://media-exp2.licdn.com/dms/image/C4D16AQEiqqnhMguvow/profile-displaybackgroundimage-shrink_200_800/0/1654689129841?e=1661990400&v=beta&t=FTnYUFm2EFgyBcVfaMy3mVU8HtOFzG3mTR35B8jIUpA)" />
+<img src="https://media-exp2.licdn.com/dms/image/C4D16AQEiqqnhMguvow/profile-displaybackgroundimage-shrink_200_800/0/1654689129841?e=1661990400&v=beta&t=FTnYUFm2EFgyBcVfaMy3mVU8HtOFzG3mTR35B8jIUpA" />
 ![I am GitHub Readme Generator's creator](https://media-exp2.licdn.com/dms/image/C4D16AQEiqqnhMguvow/profile-displaybackgroundimage-shrink_200_800/0/1654689129841?e=1661990400&v=beta&t=FTnYUFm2EFgyBcVfaMy3mVU8HtOFzG3mTR35B8jIUpA)
 
 # Myself Md. Tur-Ibna Mostafiz
