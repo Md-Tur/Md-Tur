@@ -29,7 +29,7 @@ I have recently completed a course on full-stack web development at Programming 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Md-Tur&theme=dracula)  
 
 # 🔥Github metrics :
-![GitHub metrics](https://metrics.lecoq.io/Md-Tur&theme=dracula)  
+![GitHub metrics](https://metrics.lecoq.io/Md-Tur)
 
 ## 🏆GitHub Trophies :
 ![](https://github-profile-trophy.vercel.app/?username=Md-Tur&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
