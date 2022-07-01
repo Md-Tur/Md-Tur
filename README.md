@@ -25,8 +25,10 @@ I have recently completed a course on full-stack web development at Programming 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-Tur)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tur)](https://github.com/anuraghazra/github-readme-stats)
 
+# 🚀Github Activity Graph:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Md-Tur)  
 
+# 🔥Github metrics:
 ![GitHub metrics](https://metrics.lecoq.io/Md-Tur)  
 
 ## 🏆GitHub Trophies
