@@ -26,7 +26,7 @@ I have recently completed a course on full-stack web development at Programming 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tur&theme=dark&hide_border=true&langs_count=8)](https://github.com/Md-Tur/github-readme-stats)
 
 # 🚀Github Activity Graph :
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Md-Tur&theme=dark)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Md-Tur&theme=dark&hide_border=true)  
 
 # 🔥Github metrics :
 ![GitHub metrics](https://metrics.lecoq.io/Md-Tur)
@@ -35,7 +35,7 @@ I have recently completed a course on full-stack web development at Programming 
 ![](https://github-profile-trophy.vercel.app/?username=Md-Tur&theme=dark&hide_border=true&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote :
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂Random Dev Meme :
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
