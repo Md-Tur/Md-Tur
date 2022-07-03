@@ -32,7 +32,7 @@ I have recently completed a course on full-stack web development at Programming 
 ![GitHub metrics](https://metrics.lecoq.io/Md-Tur)
 
 ## 🏆GitHub Trophies :
-![](https://github-profile-trophy.vercel.app/?username=Md-Tur&theme=codeSTACKr&hide_border=true&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Md-Tur&theme=gotham&hide_border=true&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
