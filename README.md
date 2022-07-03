@@ -23,7 +23,7 @@ I have recently completed a course on full-stack web development at Programming 
 # 🎯GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Md-Tur&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Md-Tur&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tur&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tur&theme=dark&hide_border=true&langs_count=8)](https://github.com/Md-Tur/github-readme-stats)
 
 # 🚀Github Activity Graph :
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Md-Tur&theme=dark&hide_border=true)  
