@@ -2,7 +2,7 @@
 
 # Myself Md. Tur-Ibna Mostafiz
 # 💫About Me :
-Am a junior web developer. I have knowledge & experience on Java Script,ES6,React,HTML5, CSS3, Bootstrap 5, Tailwind CSS, daisyUI,ES6,JWT,google firebase, GitHub, Figma, Netlify. Am also familiar with typescript, node.js, express.js, MongoDB, and chrome dev tools. Now am ready to work individually or as a team member in a company.
+Am a Full stack web developer (MERN). I have knowledge & experience on Java Script,ES6,React,HTML5, CSS3, Bootstrap 5, Tailwind CSS, daisyUI,ES6,JWT,google firebase, GitHub, Figma, Netlify. Am also familiar with typescript, node.js, express.js, MongoDB, and chrome dev tools. Now am ready to work individually or as a team member in a company.
 
 I have recently completed a course on full-stack web development at Programming Hero. I have also developed some websites and now I am confident to start my carrier as a web developer. I enjoy web development and am dedicated and punctual about it. I think I would be efficient for a company if I got a chance to work there.
 
