@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://media-exp2.licdn.com/dms/image/C4D16AQEiqqnhMguvow/profile-displaybackgroundimage-shrink_200_800/0/1654689129841?e=1661990400&v=beta&t=FTnYUFm2EFgyBcVfaMy3mVU8HtOFzG3mTR35B8jIUpA)
+![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4D16AQEiqqnhMguvow/profile-displaybackgroundimage-shrink_350_1400/0/1654689129841?e=1668643200&v=beta&t=kI9aRN-ljxz0PZ4OwmfhwmY7IVsHRguX1EORidvMTcg)
 
 # Myself Md. Tur-Ibna Mostafiz
 # 💫About Me :
